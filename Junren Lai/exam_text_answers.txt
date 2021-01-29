@@ -1,0 +1,36 @@
+This is a text file for your text-only (no code) answers.
+
+# 1.
+TypeError: '>' not supported between instances of 'int' and 'str'
+ans:len(s1) is an integer and s2 is a string. Integers cannot be compared to strings (error line: line 3)
+
+# 2.
+TypeError: 'tuple' object does not support item assignment
+ans:python does not allow you to modify any element in a tuple, so you cannot assign it to it (error line 2)
+
+# 3. commit message
+Code before commit:here BMI is simply calculated by directly applying the formula to height and weight.
+Code after commit:the way calculate BMI here is first create a function, and call that function in main to calculate BMI, and just write the formula in main.
+
+# 4. "video camera"
+a. video_camera.py
+b. VideoCamera
+c. turn_on
+d. is_camera_on
+
+
+# 5. type choices
+a. dict  explain：the key is the common name, the value is the scientific name, and the key is the scientific name value
+b. int   explain：height, in cm, is an integer
+c. str   explain：because address is a string type
+d. float explain：a year's rainfall, with the most suitable floating point
+e. bool  explain：on and off represent True and False, respectively
+
+
+6.
+a. is composed of
+b. is a child of
+c. is unrelated to
+d. is a child of
+e. is unrelated to
+f. is an instance of

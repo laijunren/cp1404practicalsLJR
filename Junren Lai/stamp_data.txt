@@ -1,0 +1,10 @@
+New Zealand,1.2
+New Zealand,.75*
+Australia,0.4
+Australia,0.35
+Australia,0.30*
+Australia,1.0
+Australia,2.0
+England,0.25*
+England,0.5*
+England,1
